@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: calculator22
+Version: 0.2
+Summary: calculator is a python method for simple math actions
+Home-page: https://github.com/VilenaMuzipova/calculatorPyPi
+Author: Vilena
+Author-email: vilenamuzipova@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Калькулятор 
+
+### калькулятор — это метод Python для простых математических действий. 
+
+## Установка пакета
+### pip install calculator22
+
+## Использование
+### Выполните простые математические действия, такие как:
+#### sum - сложение
+#### sub - вычитание
+#### mul - умножение
+#### div - деление
+#### sqrt - вычислить значение из под корня
+#### pow - возвести в степень
+

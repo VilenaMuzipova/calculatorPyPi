@@ -1,0 +1,8 @@
+setup.py
+calculator22/__init__.py
+calculator22/calc.py
+calculator22.egg-info/PKG-INFO
+calculator22.egg-info/SOURCES.txt
+calculator22.egg-info/dependency_links.txt
+calculator22.egg-info/requires.txt
+calculator22.egg-info/top_level.txt
